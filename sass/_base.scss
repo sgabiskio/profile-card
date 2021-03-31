@@ -1,0 +1,30 @@
+//Layout widths: Mobile: 375px - Desktop: 1440px
+
+//COLORS 
+
+$color-primary: rgb(25, 162, 174);
+$color-secondary:rgb(45, 50, 72);
+$color-tertiary: rgb(106, 111, 129);
+
+
+@import url(https://fonts.google.com/specimen/Kumbh+Sans);
+
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit; // from html
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;    
+    font-family: 'Kumbh Sans'; 
+}
+
+body {
+    height: 100vh;
+}
+
+
