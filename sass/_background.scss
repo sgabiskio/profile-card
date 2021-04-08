@@ -1,7 +1,7 @@
 .container {
     display: grid;
     grid-template-rows: minmax(1rem, 1fr) minmax(42rem, 1fr) minmax(1rem, 1fr);
-    grid-template-columns: minmax(5rem, 1fr) minmax(30rem, 40rem) minmax(5rem, 1fr);
+    grid-template-columns: minmax(5rem, 1fr) minmax(27rem, 40rem) minmax(5rem, 1fr);
 
     position: relative;
     font-size: 1.8rem;
